@@ -1,0 +1,9 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "Project for workflows",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "William"
