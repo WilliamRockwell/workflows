@@ -6,4 +6,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "William"
+  "author": "William",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
+}
